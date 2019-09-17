@@ -44,9 +44,8 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 正在研究前端應用的技術與作法
 
 ### 技能
-- List
-Javascript
-Python
-C
+- Javascript
+- Python
+- C
 
 ### 聯絡我
