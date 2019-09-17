@@ -40,12 +40,11 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 ## Welcome to My Pages
 這是用來實驗 GitPages 的功能
 
-前端研究生
-正在研究前端應用的技術與作法
-
 ### 技能
 - Javascript
 - Python
 - C
 
 ### 聯絡我
+前端研究生
+正在研究前端應用的技術與作法
